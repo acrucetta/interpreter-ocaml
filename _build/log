@@ -1,0 +1,6 @@
+# dune init project interpreter
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root:
+# /Users/andrescrucettanieto/Library/CloudStorage/OneDrive-WaltzHealth/Documents/Code/interpreter-ocaml
+# Auto-detected concurrency: 8
